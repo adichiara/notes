@@ -1,0 +1,6 @@
+{
+    "git.autofetch": true,
+    "git.autoStash": true,
+    "git.confirmEmptyCommits": false,
+    "git.promptToSaveFilesBeforeCommit": "always"
+}
