@@ -21,8 +21,10 @@
     "editor:unindent-list",
     "editor:undo",
     "editor:redo",
-    "editor:toggle-keyboard",
-    "editor:configure-toolbar"
+    "editor:configure-toolbar",
+    "editor:toggle-keyboard"
   ],
-  "mobilePullAction": "obsidian-git:push2"
+  "mobilePullAction": "editor:save-file",
+  "showFrontmatter": true,
+  "spellcheck": true
 }
