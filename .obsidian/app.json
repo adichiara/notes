@@ -3,15 +3,17 @@
     "editor:insert-wikilink",
     "editor:insert-embed",
     "editor:insert-tag",
+    "editor:toggle-italics",
     "editor:attach-file",
     "editor:set-heading",
     "editor:toggle-bold",
-    "editor:toggle-italics",
     "editor:toggle-strikethrough",
     "editor:toggle-highlight",
     "editor:toggle-code",
     "editor:toggle-blockquote",
     "editor:insert-link",
+    "insert-current-date",
+    "insert-current-time",
     "editor:toggle-bullet-list",
     "editor:toggle-numbered-list",
     "editor:toggle-checklist-status",
@@ -20,9 +22,7 @@
     "editor:undo",
     "editor:redo",
     "editor:toggle-keyboard",
-    "editor:configure-toolbar",
-    "insert-current-date",
-    "insert-current-time"
+    "editor:configure-toolbar"
   ],
   "mobilePullAction": "obsidian-git:push2"
 }
