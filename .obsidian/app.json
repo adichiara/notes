@@ -27,5 +27,6 @@
   "mobilePullAction": "editor:save-file",
   "showFrontmatter": true,
   "spellcheck": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true
 }

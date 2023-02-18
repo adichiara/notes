@@ -13,23 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
+                "file": "Test.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "72ad090a66d9ccbc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,6 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Test.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,6 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Test.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,15 +114,18 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Test.md"
+          }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "72ad090a66d9ccbc",
+  "active": "d637eeaef1feebcf",
   "lastOpenFiles": [
     "Untitled.md",
+    "Templates/Template 1.md",
     "2023-02-17 20-12-56.md",
     "2023-02-17 20-01-31.md",
     "2023-02-17 20-12-37.md",
@@ -137,7 +133,6 @@
     "Test.md",
     "2023-02-17.md",
     "2023-02-17 0940.md",
-    "New note.md",
-    "Hi hi hi.md"
+    "New note.md"
   ]
 }
