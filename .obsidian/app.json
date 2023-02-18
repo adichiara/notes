@@ -24,7 +24,7 @@
     "editor:configure-toolbar",
     "editor:toggle-keyboard"
   ],
-  "mobilePullAction": "editor:save-file",
+  "mobilePullAction": "command-palette:open",
   "showFrontmatter": true,
   "spellcheck": true,
   "showInlineTitle": false,
