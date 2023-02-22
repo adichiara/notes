@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-02-21 07-46-05.md",
+                "file": "2023-02-21 22-36-46.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2023-02-21 07-46-05.md",
+            "file": "2023-02-21 22-36-46.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2023-02-21 07-46-05.md",
+            "file": "2023-02-21 22-36-46.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2023-02-21 07-46-05.md"
+            "file": "2023-02-21 22-36-46.md"
           }
         }
       }
@@ -137,6 +137,7 @@
   "active": "d637eeaef1feebcf",
   "lastOpenFiles": [
     "2023-02-18 11-47-56.md",
+    "2023-02-21 07-46-05.md",
     "2023-02-19 09-41-02.md",
     "2023-02-18 11-49-25.md",
     "2023-02-17 22-50-49.md",
@@ -144,7 +145,6 @@
     "2023-02-17 20-12-56.md",
     "2023-02-17 21-01-50.md",
     "2023-02-17 20-01-31.md",
-    "2023-02-17 20-12-37.md",
-    "readme.md"
+    "2023-02-17 20-12-37.md"
   ]
 }
