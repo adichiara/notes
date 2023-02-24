@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-02-22 16-12-59.md",
+                "file": "2023-02-24 09-36-51.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,8 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "right": {
     "id": "e9a01b47d1436fd2",
@@ -98,7 +99,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2023-02-22 16-12-59.md",
+            "file": "2023-02-24 09-36-51.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2023-02-22 16-12-59.md",
+            "file": "2023-02-24 09-36-51.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,15 +128,27 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2023-02-22 16-12-59.md"
+            "file": "2023-02-24 09-36-51.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
   "active": "d637eeaef1feebcf",
   "lastOpenFiles": [
+    "2023-02-22 16-12-59.md",
+    "2023-02-24 09-36-51.md",
     "2023-02-21 22-36-46.md",
     "2023-02-18 11-47-56.md",
     "2023-02-21 07-46-05.md",
@@ -144,7 +157,6 @@
     "2023-02-17 22-50-49.md",
     "2023-02-17 22-25-51.md",
     "2023-02-17 20-12-56.md",
-    "2023-02-17 21-01-50.md",
-    "2023-02-17 20-01-31.md"
+    "2023-02-17 21-01-50.md"
   ]
 }
