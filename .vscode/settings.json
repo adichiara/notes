@@ -2,5 +2,7 @@
     "git.autofetch": true,
     "git.autoStash": true,
     "git.confirmEmptyCommits": false,
-    "git.promptToSaveFilesBeforeCommit": "always"
+    "git.promptToSaveFilesBeforeCommit": "always",
+    "git.showCommitInput": false,
+    "git.useEditorAsCommitInput": false
 }
